@@ -1,0 +1,9 @@
+{
+  "name": "ethereum-inbox",
+  "description": "A simple solidity project",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:bntzio/ethereum-inbox.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "UNLICENSED"
+}
